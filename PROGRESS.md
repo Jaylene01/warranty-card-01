@@ -12,7 +12,10 @@ Updated: 2026-10-10 (Asia/Kuala_Lumpur)
 
 ## Deployment
 - Target: Jaylene01/warranty-card-01, main; Railway warranty-card-01 production.
-- GitHub push and production verification pending.
+- Icon commit f62598744d6964da4506b08eafe36fa66740845f pushed to main.
+- Railway deployment 43248330-6ed7-40fa-8dbb-7c0fc2174fe6: SUCCESS.
+- All four public PNG files match local SHA-256 hashes; page icon/manifest references verified; health endpoint reports database connected.
+- Customer records were not read or modified for deployment verification.
 - Test URL: https://warranty-card-01-production.up.railway.app/
 
 ## Verification
