@@ -1,0 +1,15 @@
+{
+  "name": "WEIDE Warranty Card",
+  "short_name": "Warranty Card",
+  "description": "WEIDE 电子保修卡系统",
+  "lang": "zh-Hans",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0C0D0F",
+  "theme_color": "#0C0D0F",
+  "icons": [
+    { "src": "/icons/icon-192.png?v=20261010", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png?v=20261010", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
